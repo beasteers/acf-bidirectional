@@ -1,0 +1,7 @@
+.acf-field-bidirectional .acf-label label:after{
+	content: '\f0ec';
+   font-family: FontAwesome;
+   font-weight: normal;
+   font-style: normal;
+   margin:0px 0px 0px 10px;
+}
