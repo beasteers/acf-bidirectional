@@ -1,10 +1,10 @@
-(function($){
-	
-	acf.fields.bidirectional = acf.fields.relationship.extend({
-		
-		type: 'bidirectional',
-		
-	});
-	
+(function ($) {
+
+    var Field = acf.models.RelationshipField.extend({
+        type: 'bidirectional',
+    });
+
+    acf.registerFieldType(Field);
+
 
 })(jQuery);
