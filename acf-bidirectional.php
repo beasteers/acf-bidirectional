@@ -3,8 +3,8 @@
 /*
 Plugin Name: ACF: Bidirectional Relationship Field
 Description: Adds a bidirectional relationship which links two bidirectional fields
-Author: Ben Steers
-Author URI: http://bensteers.me
+Author: Bea Steers
+Author URI: http://beasteers.com
 Version: 0.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
